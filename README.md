@@ -100,8 +100,8 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 
 -----
-<br>
 <div align="center">
+	
 ## <b>- Contactame </b><img src="https://github.com/JuanJoseChambi/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
