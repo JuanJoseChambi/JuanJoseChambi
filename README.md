@@ -5,8 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Juan+Jose+Chambi&hearts;++;Desarrollador+Front-End+Back-End,+Autodidacta;Desarrollador+Fullstack;Alumno+de+Soy+Henry;Activo,Curioso/Investigador;Cada+Dia+Aprendiendo+Cosas+Nuevas..<3"></a>
 </p>
 
-<br>
-
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
