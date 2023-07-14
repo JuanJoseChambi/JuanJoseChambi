@@ -42,20 +42,30 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 - **Front-End Development**:
 
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="bostrap" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" width="50">
 
 <br>
 
 - **Back-End Development**:
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="nodejs" width="50">
+
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="nodejs" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="express" width="50">
+  
   <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="postgresql" width="50">
   <img src="" alt="" width="50">
 
