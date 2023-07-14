@@ -22,8 +22,8 @@ En mis proyectos, empleo diversas tecnologías para brindar soluciones eficiente
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 <br>
 
-- Un apasionado desarrollador front-end autodidacta
-- Actualmente aprendiendo desarrollo web por cuenta propia
+- Un apasionado desarrollador Front-End y Back-End 
+- Actualmente aprendiendo nuevas tecnologias y frameworks como tailwind y TypeScript
 - Actualmente desarrollando el proyecto individual de el Bootcamp SoyHenry
 - Portafolio (en desarrollo)
 - CV (Desarrollo)
