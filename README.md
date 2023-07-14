@@ -103,10 +103,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 
 <div align="center">
-
--------
-
-<br>
 <br>
 
 ## <b>- Contactame </b><img src="https://github.com/JuanJoseChambi/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
