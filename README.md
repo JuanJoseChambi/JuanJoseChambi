@@ -12,9 +12,7 @@
 <br>
 
 **¡Hola!**
-
-<br><br>
-
+<br>
 <b>Soy un apasionado desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
 <br>
 <br>
