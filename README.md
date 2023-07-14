@@ -119,19 +119,4 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 	
 </ul>
 </div>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
-
-<div align='center'>
-
-## <b>Juan Jose Chambi</b>
-
-</div>
-<br>
----
-<br>
 Last Edited on: 14/7/2023
