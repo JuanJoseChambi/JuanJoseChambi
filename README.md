@@ -41,6 +41,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
     
 - **Front-End Development**:
 
+  
   <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html" width="50">
   
   <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css" width="50">
