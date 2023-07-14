@@ -66,7 +66,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="nodejs" width="60">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" style="filter:invert(100%);" width="60">
+ <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" style="filter: brightness(0) invert(1);" width="60">
   
   <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="50">
   
@@ -118,7 +118,9 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 <br>
 
------
+<a href="https://github.com/JuanJoseChambi">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanJoseChambi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanJoseChambi&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="JuanJoseChambi"/>
 
 <br>
 <br>
