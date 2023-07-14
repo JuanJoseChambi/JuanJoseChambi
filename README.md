@@ -15,7 +15,7 @@
 
 <br>
 
-<h2>¡Hola!</h2>
+**¡Hola!**
 <br>
 <br>
 <b>Soy un apasionado desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
@@ -26,13 +26,12 @@ En mis proyectos, empleo diversas tecnologías para brindar soluciones eficiente
 <br>
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 <br>
-<br>
+
 - Un apasionado desarrollador front-end autodidacta
 - Actualmente aprendiendo desarrollo web por cuenta propia
 - Actualmente desarrollando el proyecto individual de el Bootcamp SoyHenry
 - Portafolio (en desarrollo)
 - CV (Desarrollo)
-
 
 <br><br>
 
