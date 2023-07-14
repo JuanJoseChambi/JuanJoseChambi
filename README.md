@@ -1,8 +1,8 @@
 
 <h1 align="center"><b>Hola , Soy Juan Jose Chambi! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->A
+<!--  -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Juan+Jose+Chambi&hearts;++;Desarrollador+Front-End+Back-End,+Autodidacta;Desarrollador+Fullstack?;Soy+Henry,;Activo+,Curioso/Investigador;Cada+Dia+Aprendiendo+Cosas+Nuevas..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Juan+Jose+Chambi&hearts;++;Desarrollador+Front-End+Back-End,+Autodidacta;Desarrollador+Fullstack;Soy+Henry,;Activo,Curioso/Investigador;Cada+Dia+Aprendiendo+Cosas+Nuevas..<3"></a>
 </p>
 
 
@@ -20,6 +20,13 @@
 - Actualmente desarrollando el proyecto individual de el Bootcamp SoyHenry
 - Portafolio (en desarrollo)
 - CV (Desarrollo)
+
+**¡Hola!**
+<b>Soy un apasionado desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
+<br>
+En mis proyectos, empleo diversas tecnologías para brindar soluciones eficientes y efectivas. Entre mis herramientas principales se encuentran React, Node.js y SQL. Además, aprovecho las ventajas de librerías como Redux Toolkit, Sequelize, Express y Nodemon para optimizar mis desarrollos.
+<br>
+Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 
 <br><br>
 
