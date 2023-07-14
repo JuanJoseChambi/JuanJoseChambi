@@ -5,16 +5,10 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Juan+Jose+Chambi&hearts;++;Desarrollador+Front-End+Back-End,+Autodidacta;Desarrollador+Fullstack;Soy+Henry,;Activo,Curioso/Investigador;Cada+Dia+Aprendiendo+Cosas+Nuevas..<3"></a>
 </p>
 
-
 <br>
-
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
-
 **¡Hola!**
 <br>
 <br>
@@ -137,12 +131,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 </div>
 <br>
-<br>
-<br>
-<br>
-
 ---
-
 <br>
-
 Last Edited on: 14/7/2023
