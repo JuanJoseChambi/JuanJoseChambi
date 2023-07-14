@@ -22,9 +22,13 @@
 - CV (Desarrollo)
 
 **¡Hola!**
+<br>
+<br>
 <b>Soy un apasionado desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
 <br>
+<br>
 En mis proyectos, empleo diversas tecnologías para brindar soluciones eficientes y efectivas. Entre mis herramientas principales se encuentran React, Node.js y SQL. Además, aprovecho las ventajas de librerías como Redux Toolkit, Sequelize, Express y Nodemon para optimizar mis desarrollos.
+<br>
 <br>
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 
