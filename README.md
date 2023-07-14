@@ -66,7 +66,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="nodejs" width="50">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="express" width="50">
+  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express" width="50" style="filter: invert(100%);">
   
   <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="50">
   
