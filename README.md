@@ -61,7 +61,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 
 - **Back-End Development**:
-- 
+  
   <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="nodejs" width="50">
 
   <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="nodejs" width="50">
