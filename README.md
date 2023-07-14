@@ -10,9 +10,11 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <br>
+
 **¡Hola!**
-<br>
-<br>
+
+<br><br>
+
 <b>Soy un apasionado desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
 <br>
 <br>
