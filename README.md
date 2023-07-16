@@ -50,7 +50,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
   
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" width="50">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="tailwind" width="50">
   
   <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="bostrap" width="50">
   
