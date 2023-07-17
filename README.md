@@ -49,11 +49,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
   <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50">
   
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" width="50">
-  
-  
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="bostrap" width="50">
-  
-  <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="figma" width="50">
 
 <br>
 
