@@ -22,23 +22,16 @@ Valorando el compañerismo, cooperación y empatía, busco seguir creciendo como
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 <br>
 
-- Un apasionado desarrollador Front-End y Back-End 
-- Actualmente aprendiendo nuevas tecnologias y frameworks como tailwind y TypeScript
-- Actualmente desarrollando el proyecto individual de el Bootcamp SoyHenry
+- Un apasionado desarrollador Frontend y Backend 
+- Actualmente desarrollando el proyecto grupal final de el Bootcamp SoyHenry
 - Portafolio (en desarrollo)
-- CV (Desarrollo)
-
-<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <p align="center">
-
-<br>   
-    
+	
 - **Front-End Development**:
 
 
@@ -90,10 +83,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 </p>
 
-<br>
-<br>
-
------
 <div align="center">
 	
 ## <b>- Contactame </b><img src="https://github.com/JuanJoseChambi/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
@@ -118,4 +107,4 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 	
 </ul>
 </div>
-Last Edited on: 14/7/2023
+Last Edited on: 27/7/2023
