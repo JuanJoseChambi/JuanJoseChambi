@@ -26,7 +26,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 - Actualmente desarrollando el proyecto grupal final de el Bootcamp SoyHenry
 - Portafolio (en desarrollo)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -83,9 +83,9 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 </p>
 
-<div align="center">
+
 	
-## <b>- Contactame </b><img src="https://github.com/JuanJoseChambi/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <img src="https://user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif" width ="45"><b>Contactame </b>
 <br>
 <div align='left'>
 
@@ -107,4 +107,5 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 	
 </ul>
 </div>
+<div align="center">
 Last Edited on: 27/7/2023
