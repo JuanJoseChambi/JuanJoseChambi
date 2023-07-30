@@ -35,29 +35,29 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 - **Front-End Development**:
 
 
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="html" width="50">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="css" width="50">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="Javascript" width="50">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" width="50">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux" width="50">
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
 
 <br>
 
 - **Back-End Development**:
   
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="nodejs" width="50">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 
-  <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="nodejs" width="60">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Exp" width="60">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
   
-  <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="50">
+  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
   
-  <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="postgresql" width="50">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   
 
 <br>
@@ -72,14 +72,19 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![VStudio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+    ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+  ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+   ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 </p>
 
@@ -93,7 +98,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 <li>
 <a href="https://www.linkedin.com/in/juan-jose-chambi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin:  Juan Jose Chambi-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
@@ -101,10 +106,18 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 <li>
 <a href="mailto:chambijuanjose05@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  Juan Jose Chambi-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
-	
+
+<br>
+
+<li>
+<a href="https://twitter.com/ITJuanJose" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"" />
+</a>
+</li>
+ 
 </ul>
 </div>
 <div align="center">
