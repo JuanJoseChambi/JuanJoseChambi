@@ -96,16 +96,16 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 <div align="center" margin="30">
 
-<a href="https://www.linkedin.com/in/juan-jose-chambi/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 20px;"/>
+<a href="https://www.linkedin.com/in/juan-jose-chambi/" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:juanjosech.it@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-left: 20px;" />
+<a href="mailto:juanjosech.it@gmail.com" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/ITJuanJose" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-left: 20px;" />
+<a href="https://twitter.com/ITJuanJose" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
 
  
