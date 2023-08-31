@@ -22,9 +22,9 @@ Valorando el compañerismo, cooperación y empatía, busco seguir creciendo como
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 <br>
 
-- Un apasionado desarrollador Frontend y Backend 
-- Actualmente desarrollando el proyecto grupal final de el Bootcamp SoyHenry
-- Portafolio (en desarrollo)
+- Desarrollador FullStack Frontend y Backend con conocimientos en bases de Datos.
+- Proyecto de PF: <a href="https://m-market-iota.vercel.app/home" target="_blank">MMarket</a>
+- <a href="https://portafolio-front-two.vercel.app/" target="_blank">Portafolio</a> 
 
 <br>
 
@@ -65,6 +65,8 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+    ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
     
 <br>
 
