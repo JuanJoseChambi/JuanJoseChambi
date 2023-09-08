@@ -24,7 +24,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 - Desarrollador FullStack Frontend y Backend con conocimientos en bases de Datos.
 - Proyecto de PF: <a href="https://m-market-iota.vercel.app/home" target="_blank">MMarket</a>
--Mi <a href="https://portafolio-front-two.vercel.app/" target="_blank">Portafolio</a> 
+- Mi <a href="https://portafolio-front-two.vercel.app/" target="_blank">Portafolio</a> 
 
 <br>
 
