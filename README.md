@@ -28,10 +28,11 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 <br>
 
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 <p align="center">
-	
+ 
 - **Front-End Development**:
 
 
@@ -110,4 +111,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
  
 </div>
 <div align="center">
-Last Edited on: 23/9/2023
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanJoseChambi&theme=github-dark-blue&hide_border=verdadero&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+ 
+Last Edited on: 28/9/2023
