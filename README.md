@@ -15,7 +15,7 @@
 <br>
 <br>
 En mis proyectos, empleo diversas tecnologías para brindar soluciones eficientes y efectivas. Especializado en Frontend y Backend con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, librerías y frameworks. Experiencia en Frontend , Backend 
-y Bases de Datos con tecnologías como HTML, CSS, JavaScript, React, Redux Toolkit, Node.js, Express, Sequelize y PostgreSQL.<br>
+y Bases de Datos con tecnologías como HTML, CSS, Sass ,JavaScript, React, Redux Toolkit, Node.js, Express, Sequelize y PostgreSQL.<br>
 Valorando el compañerismo, cooperación y empatía, busco seguir creciendo como desarrollador.
 <br>
 <br>
