@@ -11,7 +11,7 @@
 
 **¡Hola!**
 <br>
-<b>Soy un apasionado desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
+<b>Soy Jose, desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
 <br>
 <br>
 En mis proyectos, empleo diversas tecnologías para brindar soluciones eficientes y efectivas. Especializado en Frontend y Backend con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, librerías y frameworks. Experiencia en Frontend , Backend 
