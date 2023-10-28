@@ -5,13 +5,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=700&height=100&lines=Juan+Jose+Chambi;++;Actualmente Aprendiendo Typescript;Desarrollador+Fullstack;Aprendiendo+Cosas+Nuevas"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
 
 <br>
 
-**¡Hola!**
+<h2>Hola! 🖐</h2>
 <br>
-<b>Soy Jose, desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
+<p>Soy Jose, desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
 <br>
 <br>
 En mis proyectos, empleo diversas tecnologías para brindar soluciones eficientes y efectivas. Especializado en Frontend y Backend con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, librerías y frameworks. Experiencia en Frontend , Backend 
@@ -30,11 +30,11 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
 
 <p align="center">
  
-- **Front-End Development**:
+- **Desarrollo Front-end**:
 
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -47,7 +47,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 <br>
 
-- **Back-End Development**:
+- **Desarrollo Back-end**:
   
    ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -58,7 +58,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 <br>
 
-- **Cloud Hosting**:
+- **Hostings**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
@@ -66,7 +66,7 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
     
 <br>
 
-- **Softwares and Tools**:
+- **Software y herramientas**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
