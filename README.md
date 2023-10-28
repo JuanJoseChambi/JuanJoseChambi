@@ -9,7 +9,7 @@
 
 <br>
 
-<h2>Hola! 🖐</h2>
+**Hola! 🖐**
 <br>
 <p>Soy Jose, desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
 <br>
