@@ -107,4 +107,4 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanJoseChambi&theme=github-dark-blue&hide_border=verdadero&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
  
-Last Edited on: 28/9/2023
+Última edición el: 29/10/2023
