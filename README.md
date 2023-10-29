@@ -23,7 +23,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 
 - Desarrollador FullStack con experiencia y conocimientos en bases de Datos.
-- Proyecto de PF: <a href="https://m-market-iota.vercel.app/home" target="_blank">MMarket</a>
 - Actualmente Practicando: <br>
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
