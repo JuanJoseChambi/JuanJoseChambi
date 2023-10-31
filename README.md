@@ -11,12 +11,11 @@
 
 **Hola! 🖐**
 <br>
-<p>Soy Jose, desarrollador web que se siente fascinado por la tecnología y todos sus aspectos. Este entusiasmo me impulsa a buscar constantemente nuevas oportunidades de aprendizaje para enriquecer mi trayectoria como desarrollador.
-<br>
-<br>
-En mis proyectos, empleo diversas tecnologías para brindar soluciones eficientes y efectivas. Especializado en Frontend y Backend con conocimientos en metodologías ágiles, GIT, estructura de datos, algoritmos, librerías y frameworks. Experiencia en Frontend , Backend 
-y Bases de Datos con tecnologías como HTML, CSS, Sass ,JavaScript, TypeScript, React, Redux Toolkit, Node.js, Express, Sequelize y PostgreSQL.<br>
-Valorando el compañerismo, cooperación y empatía, busco seguir creciendo como desarrollador.
+<p>Soy Juan Jose Chambi, desarrollador Frontend con enfoque en trabajo en equipo, curiosidad y dedicación.
+Especializado en Frontend con experiencia y conocimientos en Backend, Bases de Datos, metodologías ágiles, GIT,
+estructura de datos, algoritmos y frameworks. He creado y trabajado en proyectos utilizando tecnologías como
+HTML/CSS, Sass, JavaScript, TypeScript, React, Redux Toolkit, Node, Express, Sequelize y PostgreSQL, valorando la
+cooperación, compañerismo y empatía en equipos.
 <br>
 <br>
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
