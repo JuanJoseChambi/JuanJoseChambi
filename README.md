@@ -22,8 +22,10 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <br>
 
 - Desarrollador FullStack con experiencia y conocimientos en bases de Datos.
-- Actualmente Practicando: <br>
+- Practicando: <br>
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- Aprendiendo: <br>
+ ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <br>
 
