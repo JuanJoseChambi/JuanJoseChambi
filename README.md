@@ -97,11 +97,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 <a href="mailto:juanjosech.it@gmail.com" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://twitter.com/ITJuanJose" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-
  
 </div>
 <div align="center">
