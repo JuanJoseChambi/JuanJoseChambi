@@ -21,7 +21,7 @@ cooperación, compañerismo y empatía en equipos.
 Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
 <br>
 
-- Desarrollador FullStack con experiencia y conocimientos en bases de Datos.
+- Desarrollador FullStack
 - Practicando: <br>
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 - Aprendiendo: <br>
