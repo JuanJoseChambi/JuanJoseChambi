@@ -71,7 +71,6 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![VStudio](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
     ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -103,4 +102,4 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanJoseChambi&theme=github-dark-blue&hide_border=verdadero&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
  
-Última edición el: 29/10/2023
+Última edición el: 05/11/2023
