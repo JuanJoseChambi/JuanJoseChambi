@@ -9,23 +9,21 @@
 
 <br>
 
-**Hola! 🖐**
-<br>
-<p>Soy Juan Jose Chambi, desarrollador Frontend con enfoque en trabajo en equipo, curiosidad y dedicación.
-Especializado en Frontend con experiencia y conocimientos en Backend, Bases de Datos, metodologías ágiles, GIT,
-estructura de datos, algoritmos y frameworks. He creado y trabajado en proyectos utilizando tecnologías como
-HTML/CSS, Sass, JavaScript, TypeScript, React, Redux Toolkit, Node, Express, Sequelize y PostgreSQL, valorando la
-cooperación, compañerismo y empatía en equipos.
-<br>
-<br>
-Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros.</b>
-<br>
+_**Hola! 🖐**_
+<br><br>
+<sup >
+_Soy Juan Jose, Desarrollador Fullstack/Frontend con enfoque en trabajo en equipo, curiosidad y dedicación. Mi experiencia no solo abarca el Frontend, sino también el Backend, Bases de Datos, metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks.
+<br><br>
+He creado y colaborado en proyectos utilizando tecnologías como HTML/CSS, Sass, JavaScript, TypeScript, React, Redux Toolkit, Node, Express, Sequelize y PostgreSQL. Ahora, estoy ampliando mis habilidades con el aprendizaje de MongoDB.
+<br/><br/>
+Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros._	
+</sup>
 
-- Desarrollador FullStack
-- Practicando: <br>
+- _Desarrollador FullStack/Frontend_
+- _Practicando:_ <br>
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
  ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- Aprendiendo: <br>
+- _Aprendiendo:_ <br>
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
@@ -104,4 +102,4 @@ Mi objetivo es seguir creciendo en este campo, expandiendo mi conocimiento y apl
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanJoseChambi&theme=github-dark-blue&hide_border=verdadero&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
  
-Última edición el: 05/11/2023
+> Última edición el: 05/11/2023
