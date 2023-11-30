@@ -22,7 +22,6 @@ Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y 
 - _Desarrollador FullStack/Frontend_
 - _Practicando:_ <br>
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
- ![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - _Aprendiendo:_ <br>
  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
