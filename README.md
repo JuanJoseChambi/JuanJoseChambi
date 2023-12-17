@@ -20,8 +20,7 @@ Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y 
 </small>
 
 - _Desarrollador FullStack/Frontend_
-- _Practicando:_ <br>
- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- _Practicando:_
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- - _Aprendiendo:_ <br> -->
  <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
