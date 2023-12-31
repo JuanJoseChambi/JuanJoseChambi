@@ -14,7 +14,7 @@ _**Hola! 🖐**_
 <small >
 _Soy Juan Jose, Desarrollador Fullstack/Frontend con enfoque en trabajo en equipo, curiosidad y dedicación. Mi experiencia no solo abarca el Frontend, sino también el Backend, Bases de Datos, metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks.
 <br><br>
-He creado y colaborado en proyectos utilizando tecnologías como HTML/CSS, Sass, JavaScript, TypeScript, React, Redux Toolkit, Node, Express, Sequelize y PostgreSQL. Ahora, estoy ampliando mis habilidades con el aprendizaje de MongoDB.
+He creado y colaborado en proyectos utilizando tecnologías como HTML/CSS, Sass, JavaScript, TypeScript, React, Redux Toolkit, Node, Express, Sequelize, PostgreSQL y MongoDB
 <br/><br/>
 Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros._	
 </small>
