@@ -19,7 +19,7 @@ He creado y colaborado en proyectos utilizando tecnologías como HTML/CSS, Sass,
 Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros._	
 </small>
 
-- _Desarrollador FullStack/Frontend_
+ - _Desarrollando: ProductApi_
 - _Practicando:_<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <!-- - _Aprendiendo:_ <br> -->
