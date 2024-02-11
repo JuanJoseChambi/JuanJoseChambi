@@ -20,8 +20,8 @@ Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y 
 </small>
 
  - _Desarrollando: ProductApi_
-- _Practicando:_<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<!-- - _Practicando:_<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)--!>
 <!-- - _Aprendiendo:_ <br> -->
  <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 
