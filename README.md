@@ -18,7 +18,6 @@ He creado y colaborado en proyectos utilizando tecnologías como HTML/CSS, Sass,
 <br/><br/>
 Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros._	
 </small>
-[![VisitProfile](https://visitcount.itsvg.in/api?id=JuanJoseChambi&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
  -💻 _Desarrollando: ProductApi_
 <!-- - _Practicando:_<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) --!>
@@ -101,5 +100,7 @@ Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y 
 <div align="center">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanJoseChambi&theme=github-dark-blue&hide_border=verdadero&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+
+ [![](https://visitcount.itsvg.in/api?id=JuanJoseChambi&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
  
 > Última edición el: 30/12/2023
