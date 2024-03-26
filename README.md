@@ -25,7 +25,9 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 
 <br/> 
 
- -💻 _Desarrollando: ProductApi_
+ -💻 _Desarrollando en Frontend: Versa-shop_
+ <br><br>
+ -🛢 _Desarrollando en Backend: e-commerce-backend_
 <!-- - _Practicando:_<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) --!>
 <!-- - _Aprendiendo:_ <br> -->
