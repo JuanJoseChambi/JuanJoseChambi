@@ -11,13 +11,19 @@
 
 _**Hola! 🖐**_
 <br><br>
-<small >
+<!-- <small >
 _Soy Juan Jose, Desarrollador Fullstack/Frontend con enfoque en trabajo en equipo, curiosidad y dedicación. Mi experiencia no solo abarca el Frontend, sino también el Backend, Bases de Datos, metodologías ágiles, GIT, estructura de datos, algoritmos y frameworks.
 <br><br>
 He creado y colaborado en proyectos utilizando tecnologías como HTML/CSS, Sass, JavaScript, TypeScript, React, Redux Toolkit, Node, Express, Sequelize, PostgreSQL y MongoDB
 <br/><br/>
 Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y aplicándolo de manera práctica en proyectos futuros._	
-</small>
+</small> -->
+
+<small> _Soy José, desarrollador Fullstack. Estoy buscando especializarme de manera integral, buscando la mejor implementación de prácticas posibles para mejorar en el desarrollo y aplicarlo en mi día a día, ya sea en proyectos para clientes o personales.
+<br><br>
+Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, así como generando oportunidades personales para mejorar en este ámbito y proporcionar resultados eficientes y acordes a los proyectos que se me presenten_ </small>
+
+<br/> 
 
  -💻 _Desarrollando: ProductApi_
 <!-- - _Practicando:_<br>
@@ -106,4 +112,4 @@ Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JuanJoseChambi&theme=github-dark-blue&hide_border=verdadero&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
  
-> Última edición el: 23/03/2024
+> Última edición el: 26/03/2024
