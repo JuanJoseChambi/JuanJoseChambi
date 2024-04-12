@@ -110,7 +110,7 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 </a>
 
 
-<a href="mailto:juanjosech.it@gmail.com" target="_blank" rel="noopener">
+<a href="https://portafolio-juanjosechambi.vercel.app/" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
 
