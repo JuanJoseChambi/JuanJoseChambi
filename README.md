@@ -108,7 +108,12 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 <a href="mailto:juanjosech.it@gmail.com" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
- 
+
+
+<a href="mailto:juanjosech.it@gmail.com" target="_blank" rel="noopener">
+<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+</a>
+
 </div>
 <div align="center">
 
