@@ -101,9 +101,9 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 
 <div align="center" margin="30">
 
-<a href="https://www.linkedin.com/in/juan-jose-chambi/" target="_blank" rel="noopener">
+<!-- <a href="https://www.linkedin.com/in/juan-jose-chambi/" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="mailto:juanjosech.it@gmail.com" target="_blank" rel="noopener">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
