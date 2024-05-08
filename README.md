@@ -25,7 +25,7 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 
 <br/> 
 
- -💻 _Desarrollando en Frontend: Versa-shop - mv-frontend_
+ -💻 _Desarrollando en Frontend: Versa-shop - Native_
  <br><br>
  -🛢 _Desarrollando en Backend: e-commerce-backend_
 <!-- - _Practicando:_<br>
