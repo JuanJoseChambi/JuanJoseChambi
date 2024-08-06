@@ -24,11 +24,13 @@ Mi objetivo es continuar creciendo en este campo, expandiendo mi conocimiento y 
 Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, así como generando oportunidades personales para mejorar en este ámbito y proporcionar resultados eficientes y acordes a los proyectos que se me presenten_ </small>
 
 <br/> 
- -🎈 _Probando Python 🐍_  
- <br><br>
+
+ -🎈 _Probando Python_ 🐍 
+ 
  -💻 _Desarrollando en Frontend: Versa-shop - Native_
- <br><br>
+ 
  -🛢 _Desarrollando en Backend: e-commerce-backend_
+ 
 <!-- - _Practicando:_<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) --!>
 <!-- - _Aprendiendo:_ <br> -->
