@@ -27,9 +27,9 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 
  -🎈 _Probando Python_ 🐍 
  
- -💻 _Desarrollando en Frontend: Versa-shop - Native_
+ <!--  -🛢 _Desarrollando en Backend: e-commerce-backend_
  
- -🛢 _Desarrollando en Backend: e-commerce-backend_
+  -💻 _Desarrollando en Frontend: Versa-shop - Native_ --!>
  
 <!-- - _Practicando:_<br>
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) --!>
