@@ -25,7 +25,9 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 
 <br/> 
 
- -🎈 _Probando Python_ 🐍 
+ -🎈 _Probando Python_ 🐍
+ 
+ -👀 _Practicando React Native_
  
  <!--  -🛢 _Desarrollando en Backend: e-commerce-backend_
  
