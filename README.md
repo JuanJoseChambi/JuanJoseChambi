@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=25&pause=1000&center=true&vCenter=true&random=false&width=700&height=100&lines=Desarrollador+Fullstack+%2F+Frontend;Curioso+-+Autodidacta+-+Dedicado+-+Automotivaci%C3%B3n;Aprendiendo+Tecnologias" alt="Typing SVG" /></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre Mi**
+## <img src="https://media.tenor.com/QhRvvwpCdVoAAAAj/rocket.gif" width ="45"><b>ㅤSOBRE MI</b>
 
 <br>
 
@@ -43,7 +43,7 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 <br>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="40"><b>ㅤSKILLS</b>
 
 <p align="center">
  
