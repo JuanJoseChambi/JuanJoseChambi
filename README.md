@@ -25,7 +25,9 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 
 <br/> 
 
- -🎈 _Probando Python_ 🐍
+ - _Estudianto para la carrera de Ingenieria Informatica_
+
+ <!-- -🎈 _Probando Python_ 🐍--!>
  
  <!-- -👀 _Practicando React Native_ --!>
  
