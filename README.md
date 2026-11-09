@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=200&size=25&pause=1000&center=true&vCenter=true&random=false&width=700&height=100&lines=Desarrollador+Fullstack+%2F+Frontend;Curioso+-+Autodidacta+-+Dedicado+-+Automotivaci%C3%B3n;Aprendiendo+Tecnologias" alt="Typing SVG" /></a>
 </p>
 
-## <img src="https://media.tenor.com/QhRvvwpCdVoAAAAj/rocket.gif" width ="45"><b>ㅤSOBRE MI</b>
+## <b>ㅤSOBRE MI</b>
 
 <br>
 
@@ -26,6 +26,10 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 <br/> 
 
  - _Estudianto para la carrera de Ingenieria Informatica_
+ - Portafolio:ㅤ
+	<a href="https://portafolio-juanjosechambi.vercel.app/" target="_blank" rel="noopener">
+	<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
+	</a>
 
  <!-- -🎈 _Probando Python_ 🐍--!>
  
@@ -119,9 +123,6 @@ Estoy creando mi propia experiencia para destacar en el mundo del desarrollo, as
 </a>
 
 
-<a href="https://portafolio-juanjosechambi.vercel.app/" target="_blank" rel="noopener">
-<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
-</a>
 
 </div>
 <div align="center">
